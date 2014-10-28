@@ -31,7 +31,11 @@ public class ProbarTodo {
               curso3.setNombre("Sistemas operativos");
               curso3.setCuatrimestre(6);
               curso3.setProfesor("Natisma");     
+              
+              
              Curso cursos[]={curso1,curso2,curso3}; 
+             
+             
               Alumno a=new Alumno("Juan Carlos",cursos );
               
     }
